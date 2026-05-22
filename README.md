@@ -17,6 +17,12 @@
 Smart Student Companion is a cross-platform mobile application designed for students who want everything in one place — notes, live weather, trending news, and personalized settings — all behind a secure login.
 
 ---
+<div align="center">
+<img width="1863" height="1314" alt="picture" src="https://github.com/user-attachments/assets/1fc40836-c122-4fa0-81d9-bad1b473d662" />
+<img width="1920" height="1315" alt="Picture4" src="https://github.com/user-attachments/assets/c3b6206f-9adc-48d6-bc2b-da0c9173c046" />
+
+
+</div>
 
 ## 🚀 Features
 
