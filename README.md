@@ -53,32 +53,6 @@ Smart Student Companion is a cross-platform mobile application designed for stud
 | Local Storage | AsyncStorage |
 | Icons | Lucide React Native |
 
----
-
-## 📂 Project Structure
-
-```
-smart-student-companion/
-│
-├── App.js                    # Entry point — auth flow & navigation
-│
-└── src/
-    ├── config/
-    │   └── firebase.js       # Firebase app initialization
-    │
-    ├── screens/
-    │   ├── LockScreen.js     # Login
-    │   ├── SignUpScreen.js   # Registration
-    │   ├── HomeScreen.js     # Welcome + logout
-    │   ├── NotesScreen.js    # Notes (Firestore CRUD)
-    │   ├── ExploreScreen.js  # Weather + news
-    │   └── SettingsScreen.js # Preferences + dark mode
-    │
-    └── components/
-        └── NavItem.js        # Bottom nav tab component
-```
-
----
 
 ## ⚡ Getting Started
 
